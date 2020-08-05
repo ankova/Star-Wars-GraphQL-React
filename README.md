@@ -1,4 +1,4 @@
-# Syft Tic-Tac-Toe
+# Star Wars Card game
 
 ## Scripts
 
